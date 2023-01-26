@@ -1,0 +1,51 @@
+html {
+  background-color: #9FABB3;
+}
+
+p {
+
+ text-align: center;
+  font-size: 52px; 
+  font-family: Segoe UI;
+  border: 0px solid black;
+  width: 600px;
+  font-weight: bold;
+
+}
+body {
+  width: 600px;
+  margin: auto;
+  background-color: #C1CFD9;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+  font-family: Segoe UI;
+}
+
+h1{
+	padding:0 20px 20px 20px;;
+}
+
+h2 {
+ 
+  text-align: center;
+  font-size: 32px; 
+  font-family: Segoe UI;
+  border: 0px solid black;
+}
+
+
+.container
+{
+
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+ 
+
+}
+li{
+	  display: block;
+  margin: 0 auto;
+  text-align: center;
+
+}
